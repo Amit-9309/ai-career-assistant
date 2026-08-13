@@ -181,13 +181,13 @@ http://localhost:5173
 
 ## 👨‍💻 Author
 
-**Sankalp Kumar Singh**
+**Amit Singh**
 
 B.Tech Computer Science Engineering
 
 Python | FastAPI | React.js | SQL | REST APIs | AI Enthusiast
 
-GitHub: https://github.com/parmarsankapdev01
+GitHub: https://github.com/Amit-9309
 
 
 
